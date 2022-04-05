@@ -1,4 +1,4 @@
-# Guess-the-numeber
+# Guess-the-number
 Guess the number !!!
 Rules :-
 (1) Please input only numbers
